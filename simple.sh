@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "hello world!"
-## print hello work
+## print hello world "to my screen"
 
 
 #this is another comment
